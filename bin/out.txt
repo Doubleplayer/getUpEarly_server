@@ -1,0 +1,303 @@
+http服务启动起来
+Instance of '_HttpServer'
+null
+{type: Login, user: xmz, password: xiaoxiao666..}
+update
+getScores
+{android_version: 1.0.3, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+0
+update
+{android_version: 1.0.3, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+update
+0
+{android_version: 1.0.3, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+update
+0
+{android_version: 1.0.3, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{file: Instance of '_HttpBodyFileUpload'}
+/root/Server/bin/../image/image_picker-153144505.jpg
+1
+{file: Instance of '_HttpBodyFileUpload'}
+/root/Server/bin/../image/image_picker1397142990.jpg
+1
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+0
+update
+{android_version: 1.0.3, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{file: Instance of '_HttpBodyFileUpload'}
+/root/Server/bin/../image/image_picker-122958129.jpg
+1
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+123123
+null
+null
+null
+null
+null
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getUp
+{file: Instance of '_HttpBodyFileUpload'}
+/root/Server/bin/../image/image_picker4310632560444796760.jpg
+1
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+123123
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+getUp
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+{type: Login, user: xmz, password: xiaoxiao666..}
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+0
+null
+访问orders
+update
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+update
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+null
+123123
+null
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getUp
+getUp
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+0
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+update
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+getUp
+null
+null
+null
+null
+null
+null
+123123
+null
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+0
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+0
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+0
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}

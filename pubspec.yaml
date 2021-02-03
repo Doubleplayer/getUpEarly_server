@@ -1,0 +1,7 @@
+mysql1: ^0.17.1
+name: test_server
+descript: 测试服务器
+dependencies:
+  http_server: ^0.9.8+3
+  mysql1: ^0.17.1
+  serral: any

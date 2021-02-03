@@ -1,0 +1,176 @@
+http服务启动起来
+Instance of '_HttpServer'
+getScores
+getPersistantSignInDays
+update
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+0
+getScores
+update
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+2
+getPersistantSignInDays
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+getScores
+0
+2
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+getScores
+0
+2
+null
+访问orders
+getPersistantSignInDays
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+2
+getScores
+2
+getPersistantSignInDays
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+getScores
+0
+2
+getScores
+2
+getPersistantSignInDays
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+getScores
+update
+0
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+update
+0
+getScores
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: ORDER, scores: 20, description: 胶带6卷, url: https://c-ssl.duitang.com/uploads/item/201511/02/20151102130205_XfnC2.thumb.1000_0.jpeg}
+2
+{type: ORDER, scores: 20, description: 胶带6卷, url: https://c-ssl.duitang.com/uploads/item/201511/02/20151102130205_XfnC2.thumb.1000_0.jpeg}
+2
+getPersistantSignInDays
+0
+getScores
+update
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+getScores
+0
+2
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+update
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+0
+null
+访问orders
+getPersistantSignInDays
+0
+getScores
+update
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+update
+0
+getScores
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+2
+update
+getPersistantSignInDays
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+getPersistantSignInDays
+2
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+0
+update
+getScores
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+0
+update
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+null
+访问orders
+getPersistantSignInDays
+update
+getScores
+0
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+getPersistantSignInDays
+update
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}

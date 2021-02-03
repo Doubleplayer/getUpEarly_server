@@ -1,0 +1,1 @@
+{"android_version":"1.0.4","android_msg":"本次更新可以缓存密码了，也新增了APP封面","android_url":"http://47.102.213.168:8000/updateInfo"}
