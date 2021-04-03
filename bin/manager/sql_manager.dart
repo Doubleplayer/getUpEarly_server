@@ -10,7 +10,9 @@ class Sql {
           port: 3306,
           user: 'lsh',
           db: 'get_up_early',
-          password: 'lsh2xmz..');
+          password: 'lsh2xmz..',
+          );
+          
     }
   }
   //链接数据库
@@ -18,12 +20,12 @@ class Sql {
     db = await MySqlConnection.connect(settings);
   }
 
+
+
 //插入早起签到信息
-  Future<bool> insertGetUpInfo(
-      String date) async {
-    var result = await db.query(
-        "insert into get_up (date) values (?);",
-        [date]);
+  Future<bool> insertGetUpInfo(String date) async {
+    var result =
+        await db.query("insert into get_up (date) values (?);", [date]);
     if (result.affectedRows == 0) {
       return false;
     } else {
@@ -58,7 +60,6 @@ class Sql {
     return lastDate;
   }
 
-
   //更新早起签到天数
   void updateGetUpDays() async {
     var tmp1 = await db
@@ -67,20 +68,19 @@ class Sql {
 
   //获取早起签到天数
   Future<int> getGetUpDays() async {
-    var result = await db.query(
-        "select val from key_data where( name = 'get_up_days' );");
+    var result = await db
+        .query("select val from key_data where( name = 'get_up_days' );");
     var max_persistant_days = result.toList();
     return int.parse(max_persistant_days[0][0].toString());
   }
 
-    //获取早起签到天数
+  //获取早起签到天数
   Future<int> getSignInDays() async {
-    var result = await db.query(
-        "select val from key_data where( name = 'sign_in_days' );");
+    var result = await db
+        .query("select val from key_data where( name = 'sign_in_days' );");
     var max_persistant_days = result.toList();
     return int.parse(max_persistant_days[0][0].toString());
   }
-
 
   //更新打卡签到天数
   void updateSignInDays() async {
@@ -117,7 +117,7 @@ class Sql {
 
   //更新连续打卡天数
   void updatePersistant_sign_in_days(String date) async {
-    if(date=='null'){
+    if (date == 'null') {
       var tmp3 = await db.query(
           "update key_data set val = 1 where name = 'persistant_sign_in_days';");
       return;

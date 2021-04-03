@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 import 'package:mysql1/mysql1.dart';
@@ -8,17 +9,25 @@ import 'versionManager.dart';
 import 'manager/ScoreManager.dart';
 
 String myHost = "172.17.13.219";
-
 ScoresManage manager = new ScoresManage();
 void main() async {
   {
     //创建服务器
     var requestServer = await HttpServer.bind(myHost, 10086);
+    var pre_time = DateTime.now().millisecondsSinceEpoch;
     await manager.init();
     print("http服务启动起来");
     print(requestServer);
     await for (HttpRequest request in requestServer) {
-      handleMessage(request, requestServer);
+      try {
+        int time_now = DateTime.now().millisecondsSinceEpoch;
+        if (time_now - pre_time > 27000000) {
+          await manager.reconnect_sql();
+        }
+        handleMessage(request, requestServer);
+      } catch (e) {
+        print(e);
+      }
     }
   }
 }
@@ -71,7 +80,7 @@ void handleGET(HttpRequest request, HttpServer server) async {
       ..write(json.encode(result))
       ..close();
   }
-  
+
   if (request.uri.toString() == '/updateInfo') {
     print("123123");
     VersionManager(server, request).sendHtml();

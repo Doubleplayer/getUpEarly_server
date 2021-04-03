@@ -43,6 +43,12 @@ class ScoresManage {
     await sql.connect();
   }
 
+  void reconnect_sql() async {
+    await sql.db.close();
+    await sql.connect();
+    print("reconnect to sql");
+  }
+
   Future getIdentification(String username) async {
     this.identificationPath =
         myPath + r'/../data/' + username + '/identyfication.txt';

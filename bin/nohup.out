@@ -174,3 +174,1177 @@ update
 2
 0
 {android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+2
+getPersistantSignInDays
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getUp
+Unhandled exception:
+Bad state: Cannot write to socket, it is closed
+#0      BufferedSocket.writeBufferPart (package:mysql1/src/buffered_socket.dart:119:7)
+#1      BufferedSocket.writeBuffer (package:mysql1/src/buffered_socket.dart:113:12)
+#2      ReqRespConnection._sendBufferPart (package:mysql1/src/single_connection.dart:403:19)
+#3      ReqRespConnection.sendBuffer (package:mysql1/src/single_connection.dart:391:14)
+#4      ReqRespConnection._processHandler (package:mysql1/src/single_connection.dart:438:11)
+#5      ReqRespConnection.processHandlerWithResults.<anonymous closure> (package:mysql1/src/single_connection.dart:463:19)
+#6      Pool.withResource (package:pool/pool.dart:127:28)
+<asynchronous suspension>
+#7      ReqRespConnection.processHandlerWithResults (package:mysql1/src/single_connection.dart:460:17)
+#8      MySqlConnection.query (package:mysql1/src/single_connection.dart:151:20)
+#9      Sql.getLastGetUpDate (file:///root/server/get_up_early_server-master/bin/manager/sql_manager.dart:56:31)
+#10     ScoresManage.getUp (file:///root/server/get_up_early_server-master/bin/manager/ScoreManager.dart:97:25)
+#11     handleGET (file:///root/server/get_up_early_server-master/bin/main.dart:63:32)
+#12     handleMessage (file:///root/server/get_up_early_server-master/bin/main.dart:29:7)
+#13     main (file:///root/server/get_up_early_server-master/bin/main.dart:21:7)
+<asynchronous suspension>
+#14     _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#15     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+http服务启动起来
+Instance of '_HttpServer'
+getPersistantSignInDays
+getScores
+update
+0
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+0
+update
+getScores
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+0
+getScores
+2
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+2
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+0
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+getScores
+0
+2
+getPersistantSignInDays
+0
+getScores
+update
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+0
+getScores
+2
+null
+访问orders
+getScores
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+getPersistantSignInDays
+0
+null
+访问orders
+getPersistantSignInDays
+getScores
+0
+update
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+getScores
+getPersistantSignInDays
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+0
+getUp
+getPersistantSignInDays
+0
+{type: Login, user: xmz, password: xiaoxiao666..}
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+getPersistantSignInDays
+2
+0
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+Unhandled exception:
+SocketException: Failed to create server socket (OS Error: Address already in use, errno = 98), address = 172.17.13.219, port = 10086
+#0      _NativeSocket.bind (dart:io-patch/socket_patch.dart:774:7)
+<asynchronous suspension>
+#1      _RawServerSocket.bind (dart:io-patch/socket_patch.dart:1458:26)
+#2      _ServerSocket.bind (dart:io-patch/socket_patch.dart:1729:29)
+#3      ServerSocket._bind (dart:io-patch/socket_patch.dart:1720:26)
+#4      ServerSocket.bind (dart:io/socket.dart:386:27)
+#5      _HttpServer.bind (dart:_http/http_impl.dart:2838:25)
+#6      HttpServer.bind (dart:_http:228:19)
+#7      main (file:///root/server/get_up_early_server-master/bin/main.dart:16:42)
+#8      _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getUp
+Unhandled exception:
+Bad state: Cannot write to socket, it is closed
+#0      BufferedSocket.writeBufferPart (package:mysql1/src/buffered_socket.dart:119:7)
+#1      BufferedSocket.writeBuffer (package:mysql1/src/buffered_socket.dart:113:12)
+#2      ReqRespConnection._sendBufferPart (package:mysql1/src/single_connection.dart:403:19)
+#3      ReqRespConnection.sendBuffer (package:mysql1/src/single_connection.dart:391:14)
+#4      ReqRespConnection._processHandler (package:mysql1/src/single_connection.dart:438:11)
+#5      ReqRespConnection.processHandlerWithResults.<anonymous closure> (package:mysql1/src/single_connection.dart:463:19)
+#6      Pool.withResource (package:pool/pool.dart:127:28)
+<asynchronous suspension>
+#7      ReqRespConnection.processHandlerWithResults (package:mysql1/src/single_connection.dart:460:17)
+#8      MySqlConnection.query (package:mysql1/src/single_connection.dart:151:20)
+#9      Sql.getLastGetUpDate (file:///root/server/get_up_early_server-master/bin/manager/sql_manager.dart:56:31)
+#10     ScoresManage.getUp (file:///root/server/get_up_early_server-master/bin/manager/ScoreManager.dart:97:25)
+#11     handleGET (file:///root/server/get_up_early_server-master/bin/main.dart:63:32)
+#12     handleMessage (file:///root/server/get_up_early_server-master/bin/main.dart:29:7)
+#13     main (file:///root/server/get_up_early_server-master/bin/main.dart:21:7)
+<asynchronous suspension>
+#14     _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#15     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+http服务启动起来
+Instance of '_HttpServer'
+getScores
+update
+getPersistantSignInDays
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+2
+update
+getPersistantSignInDays
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getUp
+Unhandled exception:
+Bad state: Cannot write to socket, it is closed
+#0      BufferedSocket.writeBufferPart (package:mysql1/src/buffered_socket.dart:119:7)
+#1      BufferedSocket.writeBuffer (package:mysql1/src/buffered_socket.dart:113:12)
+#2      ReqRespConnection._sendBufferPart (package:mysql1/src/single_connection.dart:403:19)
+#3      ReqRespConnection.sendBuffer (package:mysql1/src/single_connection.dart:391:14)
+#4      ReqRespConnection._processHandler (package:mysql1/src/single_connection.dart:438:11)
+#5      ReqRespConnection.processHandlerWithResults.<anonymous closure> (package:mysql1/src/single_connection.dart:463:19)
+#6      Pool.withResource (package:pool/pool.dart:127:28)
+<asynchronous suspension>
+#7      ReqRespConnection.processHandlerWithResults (package:mysql1/src/single_connection.dart:460:17)
+#8      MySqlConnection.query (package:mysql1/src/single_connection.dart:151:20)
+#9      Sql.getLastGetUpDate (file:///root/server/get_up_early_server-master/bin/manager/sql_manager.dart:56:31)
+#10     ScoresManage.getUp (file:///root/server/get_up_early_server-master/bin/manager/ScoreManager.dart:97:25)
+#11     handleGET (file:///root/server/get_up_early_server-master/bin/main.dart:63:32)
+#12     handleMessage (file:///root/server/get_up_early_server-master/bin/main.dart:29:7)
+#13     main (file:///root/server/get_up_early_server-master/bin/main.dart:21:7)
+<asynchronous suspension>
+#14     _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#15     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+http服务启动起来
+Instance of '_HttpServer'
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+update
+getPersistantSignInDays
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+0
+getScores
+2
+null
+访问orders
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+2
+getPersistantSignInDays
+0
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+Unhandled exception:
+SocketException: Failed to create server socket (OS Error: Address already in use, errno = 98), address = 172.17.13.219, port = 10086
+#0      _NativeSocket.bind (dart:io-patch/socket_patch.dart:774:7)
+<asynchronous suspension>
+#1      _RawServerSocket.bind (dart:io-patch/socket_patch.dart:1458:26)
+#2      _ServerSocket.bind (dart:io-patch/socket_patch.dart:1729:29)
+#3      ServerSocket._bind (dart:io-patch/socket_patch.dart:1720:26)
+#4      ServerSocket.bind (dart:io/socket.dart:386:27)
+#5      _HttpServer.bind (dart:_http/http_impl.dart:2838:25)
+#6      HttpServer.bind (dart:_http:228:19)
+#7      main (file:///root/server/get_up_early_server-master/bin/main.dart:16:42)
+#8      _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+Unhandled exception:
+SocketException: Failed to create server socket (OS Error: Address already in use, errno = 98), address = 172.17.13.219, port = 10086
+#0      _NativeSocket.bind (dart:io-patch/socket_patch.dart:774:7)
+<asynchronous suspension>
+#1      _RawServerSocket.bind (dart:io-patch/socket_patch.dart:1458:26)
+#2      _ServerSocket.bind (dart:io-patch/socket_patch.dart:1729:29)
+#3      ServerSocket._bind (dart:io-patch/socket_patch.dart:1720:26)
+#4      ServerSocket.bind (dart:io/socket.dart:386:27)
+#5      _HttpServer.bind (dart:_http/http_impl.dart:2838:25)
+#6      HttpServer.bind (dart:_http:228:19)
+#7      main (file:///root/server/get_up_early_server-master/bin/main.dart:16:42)
+#8      _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+Unhandled exception:
+SocketException: Failed to create server socket (OS Error: Address already in use, errno = 98), address = 172.17.13.219, port = 10086
+#0      _NativeSocket.bind (dart:io-patch/socket_patch.dart:774:7)
+<asynchronous suspension>
+#1      _RawServerSocket.bind (dart:io-patch/socket_patch.dart:1458:26)
+#2      _ServerSocket.bind (dart:io-patch/socket_patch.dart:1729:29)
+#3      ServerSocket._bind (dart:io-patch/socket_patch.dart:1720:26)
+#4      ServerSocket.bind (dart:io/socket.dart:386:27)
+#5      _HttpServer.bind (dart:_http/http_impl.dart:2838:25)
+#6      HttpServer.bind (dart:_http:228:19)
+#7      main (file:///root/server/get_up_early_server-master/bin/main.dart:16:42)
+#8      _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getScores
+Bad state: Cannot write to socket, it is closed
+getUp
+Unhandled exception:
+Bad state: Cannot write to socket, it is closed
+#0      BufferedSocket.writeBufferPart (package:mysql1/src/buffered_socket.dart:119:7)
+#1      BufferedSocket.writeBuffer (package:mysql1/src/buffered_socket.dart:113:12)
+#2      ReqRespConnection._sendBufferPart (package:mysql1/src/single_connection.dart:403:19)
+#3      ReqRespConnection.sendBuffer (package:mysql1/src/single_connection.dart:391:14)
+#4      ReqRespConnection._processHandler (package:mysql1/src/single_connection.dart:438:11)
+#5      ReqRespConnection.processHandlerWithResults.<anonymous closure> (package:mysql1/src/single_connection.dart:463:19)
+#6      Pool.withResource (package:pool/pool.dart:127:28)
+<asynchronous suspension>
+#7      ReqRespConnection.processHandlerWithResults (package:mysql1/src/single_connection.dart:460:17)
+#8      MySqlConnection.query (package:mysql1/src/single_connection.dart:151:20)
+#9      Sql.getLastGetUpDate (file:///root/server/get_up_early_server-master/bin/manager/sql_manager.dart:56:31)
+#10     ScoresManage.getUp (file:///root/server/get_up_early_server-master/bin/manager/ScoreManager.dart:97:25)
+#11     handleGET (file:///root/server/get_up_early_server-master/bin/main.dart:66:32)
+#12     handleMessage (file:///root/server/get_up_early_server-master/bin/main.dart:32:7)
+#13     main (file:///root/server/get_up_early_server-master/bin/main.dart:22:13)
+<asynchronous suspension>
+#14     _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#15     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+http服务启动起来
+Instance of '_HttpServer'
+getScores
+getPersistantSignInDays
+update
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+0
+getScores
+2
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+getPersistantSignInDays
+2
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+getScores
+0
+2
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+getScores
+update
+0
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getPersistantSignInDays
+0
+update
+getScores
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+getPersistantSignInDays
+0
+getUp
+update
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+getScores
+0
+2
+null
+null
+123123
+null
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+2
+getPersistantSignInDays
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+null
+访问orders
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+2
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+null
+null
+null
+null
+null
+123123
+null
+123123
+null
+null
+null
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+Unhandled exception:
+SocketException: Failed to create server socket (OS Error: Address already in use, errno = 98), address = 172.17.13.219, port = 10086
+#0      _NativeSocket.bind (dart:io-patch/socket_patch.dart:774:7)
+<asynchronous suspension>
+#1      _RawServerSocket.bind (dart:io-patch/socket_patch.dart:1458:26)
+#2      _ServerSocket.bind (dart:io-patch/socket_patch.dart:1729:29)
+#3      ServerSocket._bind (dart:io-patch/socket_patch.dart:1720:26)
+#4      ServerSocket.bind (dart:io/socket.dart:386:27)
+#5      _HttpServer.bind (dart:_http/http_impl.dart:2838:25)
+#6      HttpServer.bind (dart:_http:228:19)
+#7      main (file:///root/server/get_up_early_server-master/bin/main.dart:16:42)
+#8      _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+getScores
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+getScores
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+Unhandled exception:
+SocketException: Failed to create server socket (OS Error: Address already in use, errno = 98), address = 172.17.13.219, port = 10086
+#0      _NativeSocket.bind (dart:io-patch/socket_patch.dart:774:7)
+<asynchronous suspension>
+#1      _RawServerSocket.bind (dart:io-patch/socket_patch.dart:1458:26)
+#2      _ServerSocket.bind (dart:io-patch/socket_patch.dart:1729:29)
+#3      ServerSocket._bind (dart:io-patch/socket_patch.dart:1720:26)
+#4      ServerSocket.bind (dart:io/socket.dart:386:27)
+#5      _HttpServer.bind (dart:_http/http_impl.dart:2838:25)
+#6      HttpServer.bind (dart:_http:228:19)
+#7      main (file:///root/server/get_up_early_server-master/bin/main.dart:16:42)
+#8      _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+null
+访问orders
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: ORDER, scores: 15, description: 一张外卖报销券, url: https://c-ssl.duitang.com/uploads/item/201804/20/20180420111912_d5tmP.thumb.1000_0.jpeg}
+Bad state: Cannot write to socket, it is closed
+Unhandled exception:
+FormatException: Invalid number (at character 1)
+
+^
+
+#0      int._throwFormatException (dart:core-patch/integers_patch.dart:129:7)
+#1      int.parse (dart:core-patch/integers_patch.dart:53:14)
+#2      handlePOST.<anonymous closure> (file:///root/server/get_up_early_server-master/bin/main.dart:105:17)
+#3      _RootZone.runUnary (dart:async/zone.dart:1450:54)
+#4      _FutureListener.handleValue (dart:async/future_impl.dart:143:18)
+#5      Future._propagateToListeners.handleValueCallback (dart:async/future_impl.dart:696:45)
+#6      Future._propagateToListeners (dart:async/future_impl.dart:725:32)
+#7      Future._completeWithValue (dart:async/future_impl.dart:529:5)
+#8      _AsyncAwaitCompleter.complete (dart:async-patch/async_patch.dart:40:15)
+#9      _completeOnAsyncReturn (dart:async-patch/async_patch.dart:311:13)
+#10     ScoresManage.getScores (file:///root/server/get_up_early_server-master/bin/manager/ScoreManager.dart)
+<asynchronous suspension>
+#11     handlePOST (file:///root/server/get_up_early_server-master/bin/main.dart:104:15)
+<asynchronous suspension>
+#12     handleMessage (file:///root/server/get_up_early_server-master/bin/main.dart:34:7)
+#13     main (file:///root/server/get_up_early_server-master/bin/main.dart:22:13)
+<asynchronous suspension>
+#14     _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#15     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+http服务启动起来
+Instance of '_HttpServer'
+getScores
+update
+getPersistantSignInDays
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+getScores
+getPersistantSignInDays
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+0
+null
+访问orders
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+getPersistantSignInDays
+2
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getPersistantSignInDays
+0
+getScores
+2
+getPersistantSignInDays
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+Bad state: Cannot write to socket, it is closed
+update
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+update
+getScores
+Bad state: Cannot write to socket, it is closed
+getPersistantSignInDays
+Bad state: Cannot write to socket, it is closed
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getUp
+Unhandled exception:
+Bad state: Cannot write to socket, it is closed
+#0      BufferedSocket.writeBufferPart (package:mysql1/src/buffered_socket.dart:119:7)
+#1      BufferedSocket.writeBuffer (package:mysql1/src/buffered_socket.dart:113:12)
+#2      ReqRespConnection._sendBufferPart (package:mysql1/src/single_connection.dart:403:19)
+#3      ReqRespConnection.sendBuffer (package:mysql1/src/single_connection.dart:391:14)
+#4      ReqRespConnection._processHandler (package:mysql1/src/single_connection.dart:438:11)
+#5      ReqRespConnection.processHandlerWithResults.<anonymous closure> (package:mysql1/src/single_connection.dart:463:19)
+#6      Pool.withResource (package:pool/pool.dart:127:28)
+<asynchronous suspension>
+#7      ReqRespConnection.processHandlerWithResults (package:mysql1/src/single_connection.dart:460:17)
+#8      MySqlConnection.query (package:mysql1/src/single_connection.dart:151:20)
+#9      Sql.getLastGetUpDate (file:///root/server/get_up_early_server-master/bin/manager/sql_manager.dart:56:31)
+#10     ScoresManage.getUp (file:///root/server/get_up_early_server-master/bin/manager/ScoreManager.dart:97:25)
+#11     handleGET (file:///root/server/get_up_early_server-master/bin/main.dart:66:32)
+#12     handleMessage (file:///root/server/get_up_early_server-master/bin/main.dart:32:7)
+#13     main (file:///root/server/get_up_early_server-master/bin/main.dart:22:13)
+<asynchronous suspension>
+#14     _startIsolate.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:301:19)
+#15     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:168:12)
+http服务启动起来
+Instance of '_HttpServer'
+getScores
+2
+getPersistantSignInDays
+update
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getScores
+getPersistantSignInDays
+update
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getPersistantSignInDays
+getScores
+update
+0
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+update
+0
+getScores
+2
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+{type: Login, user: xmz, password: xiaoxiao666..}
+getScores
+2
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+getPersistantSignInDays
+0
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+getScores
+2
+{type: ORDER, scores: 40, description: 一件小裙子, url: https://c-ssl.duitang.com/uploads/item/201111/25/20111125192948_52sN3.thumb.1000_0.jpg}
+2
+getScores
+update
+getPersistantSignInDays
+2
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+null
+访问orders
+reconnect to sql
+null
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getScores
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+访问orders
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getScores
+2
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+访问orders
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getScores
+2
+reconnect to sql
+getUp
+reconnect to sql
+{type: Login, user: xiaoxiao, password: xiaoxiao2333..}
+reconnect to sql
+{type: Login, user: xiaoxiao, password: xiaoxiao666..}
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+访问orders
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+reconnect to sql
+null
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+2
+reconnect to sql
+update
+reconnect to sql
+getPersistantSignInDays
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getScores
+2
+reconnect to sql
+update
+reconnect to sql
+getPersistantSignInDays
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+reconnect to sql
+getUp
+reconnect to sql
+null
+访问orders
+reconnect to sql
+update
+reconnect to sql
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getScores
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+2
+reconnect to sql
+update
+reconnect to sql
+getPersistantSignInDays
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+reconnect to sql
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+reconnect to sql
+null
+reconnect to sql
+null
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+2
+reconnect to sql
+update
+reconnect to sql
+getPersistantSignInDays
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+reconnect to sql
+null
+访问orders
+reconnect to sql
+null
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+reconnect to sql
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+2
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getScores
+2
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getScores
+2
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getScores
+2
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getScores
+2
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getScores
+12
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+reconnect to sql
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+12
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+reconnect to sql
+getScores
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+12
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getScores
+12
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+getUp
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+12
+reconnect to sql
+update
+reconnect to sql
+getPersistantSignInDays
+0
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+getUp
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+null
+访问orders
+reconnect to sql
+getScores
+12
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+getUp
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+getScores
+12
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+update
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+reconnect to sql
+getUp
+reconnect to sql
+getPersistantSignInDays
+0
+reconnect to sql
+{type: Login, user: xmz, password: xiaoxiao666..}
+reconnect to sql
+update
+reconnect to sql
+getPersistantSignInDays
+{android_version: 1.0.4, android_msg: 本次更新可以缓存密码了，也新增了APP封面, android_url: http://47.102.213.168:8000/updateInfo}
+0
+reconnect to sql
+getScores
+12
